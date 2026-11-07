@@ -1,0 +1,11 @@
+{
+  "name": "hadith-ts-sahih-hasan-grader",
+  "version": "1.0.0",
+  "description": "Multi-Criteria Hadith Grading Inference Engine (Sahih/Hasan/Da'if) (محرك الحكم الاستدلالي على الحديث بالصحة أو الحسن أو الضعف)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
